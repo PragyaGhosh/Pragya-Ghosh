@@ -1,2 +1,3 @@
-# Pragya-Ghosh
-my name is pragya ghosh
+# demo
+My first repository
+my name is pragya ghosh.
